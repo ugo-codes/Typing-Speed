@@ -1,4 +1,4 @@
 # Image Watermarking Desktop App
-This is a desktop built using python during my 100 days of code. It measures how many text one can type in a minute
+Built a desktop app that assesses your typing speed
 
 - [Twitter](https://twitter.com/_fav_dev)
